@@ -8,3 +8,4 @@
 .. _muhuk: mailto:muhuk@pyist.net
 .. |yuxel| replace:: Osman Yüksel
 .. |mengukagan| replace:: Muhammet S. Aydın
+.. |taylan| replace:: Taylan Pince

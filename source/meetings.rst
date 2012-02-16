@@ -7,7 +7,7 @@ Grup Toplantıları
 
 .. sidebar:: Gelecek Toplantı
 
-    :ref:`12 Aralık 2010 <next-meeting>`
+    :ref:`11 Mart 2012 <next-meeting>`
 
 
 Toplantılar Hakkında
@@ -23,20 +23,21 @@ Toplantı Takvimi
 
 .. _next-meeting:
 
-12 Aralık 2010
+11 Mart 2012
 ^^^^^^^^^^^^^^
 
 :Saat:
-    14:00
+    Henüz belirlenmedi
 :Yer:
-    Taksim İST Cafe (arka salon). İstiklal cd. No 6.
+    Henüz belirlenmedi
 :Sunum:
-    Qooxdoo - Muhammet S. Aydın
+    Henüz belirlenmedi
 
 
 Önceki Toplantılar
 ------------------
 
+* :doc:`meetings/20120212`
 * :doc:`meetings/20101212`
 * :doc:`meetings/20100808`
 * :doc:`meetings/20100711`

@@ -1,0 +1,30 @@
+
+.. include:: ../people.rst.inc
+
+12 Şubat 2012
+==============
+
+:Saat:
+    14:00
+:Yer:
+    City Brasserie, Şişli Cevahir (Kat 6. No 375)
+:Sunum:
+    Django Tastypie - |taylan|
+
+
+Toplantının özeti
+-----------------
+
+15 kişilik katılımla birlikte bundan sonraki toplantının daha uygun bir yerde yapılmasına karar verildi. |taylan|'ın sunumu kalabalıktan dolayı uygulamasız yapılabildi.
+
+
+Katılımcılar
+------------
+
+* Cihan Okyay
+* Uğur Özyılmazel
+* Taylan Pince
+* Gökmen Görgen
+* Murat Çorlu
+* Özkan Altuner
+* Fatih Erikli
